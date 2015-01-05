@@ -1,0 +1,4 @@
+irc.conf filter=git-crypt diff=git-crypt
+xfer.conf filter=git-crypt diff=git-crypt
+.gitattributes !filter !diff
+.git-crypt !filter !diff
